@@ -1,3 +1,3 @@
-# Playing-Around-With-Some-Java-
+# Java
 
-This is some random Java Code I played around with.
+Java applications.
